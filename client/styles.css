@@ -1,0 +1,17 @@
+.title {
+    text-align: center;
+}
+
+.twitter-form, .loading, .tweets{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.loading{
+    text-align: center;
+}
+
+.tweets{
+    padding: 10px;
+    margin-top: 40px;
+}
